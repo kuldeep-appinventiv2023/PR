@@ -1,6 +1,6 @@
 let user = prompt("Enter your name");
 window.alert("Welcome " + user);  //This is a comment
-console.log("hello");
+console.log("hello" world);
 
 let length = prompt("Enter your length");
 let weight = prompt("Enter your weight");
