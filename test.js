@@ -1,5 +1,5 @@
 let user = prompt("Enter your name");
-window.alert("Welcome " + user);
+window.alert("Welcome " + user);  //This is a comment
 
 let length = prompt("Enter your length");
 let weight = prompt("Enter your weight");
